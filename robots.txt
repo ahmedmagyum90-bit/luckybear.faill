@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
+Host: www.luckybearcasino.live
 
-Sitemap: https://luckybearcasino-ru.vercel.app/sitemap.xml
+User-agent: Yandex
+Allow: /
+Host: www.luckybearcasino.live
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term
+
+Sitemap: https://www.luckybearcasino.live/sitemap.xml
